@@ -1,6 +1,6 @@
 ---
 manufacturer:
-    - tecno
+    - Tecno speark 10c root
 
 ---
 
